@@ -36,6 +36,9 @@ body {
     --m2:#e46703;
     --m3:#ac2a04;
 }
+h1{
+    color:orange;
+}
 
 #noise-svg {
     height: 100%;
